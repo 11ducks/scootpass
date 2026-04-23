@@ -1,2 +1,2 @@
 # scootpass
-11ducks.github.io/scootpass
+https://11ducks.github.io/scootpass
